@@ -1,0 +1,15 @@
+.header {
+  font-family: 'Montserrat', sans-serif;
+  color: #5c6ba7;
+  background-color: #9eb0e57b;
+  box-shadow: 0 0 1vw 2px #3b446d7c;
+  padding: 1vw;
+  display: flex;
+  flex-direction: row;
+}
+
+.note-icon {
+  width: 2vw;
+  filter: invert(27%) sepia(10%) saturate(2572%) hue-rotate(190deg) brightness(97%) contrast(92%);
+  margin-right: 0.5vw;
+}

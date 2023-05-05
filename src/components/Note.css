@@ -1,0 +1,27 @@
+.note {
+  width: 15vw;
+  height: 10vw;
+  margin: 2vw;
+  float: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  background: #eff2f9;
+  box-shadow: inset 5px 5px 10px #3b446d61,
+              inset -5px -5px 10px #ffffff;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  color: #5c6ba7;
+  font-size: 1.5vw;
+  margin-bottom: 4px;
+}
+
+.content {
+  font-family: 'Montserrat', sans-serif;
+  color: #5c6ba7;
+  font-size: 1vw;
+}
